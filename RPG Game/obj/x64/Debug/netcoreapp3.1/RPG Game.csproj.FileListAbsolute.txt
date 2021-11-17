@@ -1,0 +1,13 @@
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\bin\x64\Debug\netcoreapp3.1\RPG Game.exe
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\bin\x64\Debug\netcoreapp3.1\RPG Game.deps.json
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\bin\x64\Debug\netcoreapp3.1\RPG Game.runtimeconfig.json
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\bin\x64\Debug\netcoreapp3.1\RPG Game.runtimeconfig.dev.json
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\bin\x64\Debug\netcoreapp3.1\RPG Game.dll
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\bin\x64\Debug\netcoreapp3.1\RPG Game.pdb
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.csprojAssemblyReference.cache
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.csproj.CoreCompileInputs.cache
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.AssemblyInfoInputs.cache
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.AssemblyInfo.cs
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.dll
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.pdb
+D:\Aaron Matthews\Work\Tutorials\RPG Game C#\RPG Game\RPG Game\obj\x64\Debug\netcoreapp3.1\RPG Game.genruntimeconfig.cache
